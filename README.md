@@ -4,7 +4,7 @@ Simple jQuery snippet that will detect if an AdBlocker is active or not and send
 
 <b>Motivation:</b>
 
-I wanted to know how many visitors on my sites actually had an AdBlocker installed. I searched for some snippets online but none of them worked correctly as they didn't wait until the page was fully loaded and AdBlock was not finished altering the DOM thus reporting false positive/negatives. So I came up with my own solution.
+I wanted to know how many visitors on my sites actually had an AdBlocker installed. I searched for some snippets online but none of them worked correctly as they didn't wait until the page was fully loaded and AdBlock was not finished procesing the DOM thus reporting false positive/negatives. So I came up with my own solution.
 
 <b>Requirements:</b>
 

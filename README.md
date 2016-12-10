@@ -1,6 +1,6 @@
 # adblocker-detection
 
-Simple jQuery snippet that will detect if an AdBlocker is active and sends an event to Google Analytics.
+Simple jQuery snippet that will detect if an AdBlocker is active or not and sends an event to Google Analytics.
 
 <b>Motivation:</b>
 

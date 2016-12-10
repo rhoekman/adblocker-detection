@@ -4,9 +4,9 @@ Simple jQuery snippet that will detect if an AdBlocker is active and sends an ev
 
 Requirements:
 
-jQuery, Google Analytics and AdSense
+<b>jQuery, Google Analytics and AdSense</b>
 
-Installation:
+Implementation:
 
 Put the code snippet before the closing <b>body</b> tag into your html page.
-Add a class="ohDear" into a AdSense div tag.
+Add a <b>class="ohDear"</b> into a AdSense <b>div</b> tag.

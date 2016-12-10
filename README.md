@@ -10,3 +10,5 @@ Implementation:
 
 Put the code snippet before the closing <b>body</b> tag into your html page.
 Add a <b>class="ohDear"</b> into a AdSense <b>div</b> tag.
+
+<i>note: In production you may want to remove the console.log lines as they are solely ment for debugging purposes.</i>

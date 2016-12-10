@@ -15,4 +15,5 @@ jQuery, Google Analytics and AdSense.
 Put the code snippet before the closing <b>body</b> tag into your html page.
 Add a <b>class="ohDear"</b> into a AdSense <b>div</b> tag. That's all. :)
 
-<i>note: In production you may want to remove the console.log lines as they are solely ment for debugging purposes.</i>
+<i>note: In production you may want to remove the console.log lines as they are solely ment for debugging purposes.<br /><br />
+If you want you can replace the jQuery calls with $ for abbrivation I just put it in there for clarity.</i>

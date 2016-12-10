@@ -8,5 +8,5 @@ jQuery, Google Analytics and AdSense
 
 Installation:
 
-Put the code snippet before the closing </body> tag into your html page.
+Put the code snippet before the closing <b>body</b> tag into your html page.
 Add a class="ohDear" into a AdSense div tag.

@@ -17,4 +17,4 @@ Add a <b>class="ohDear"</b> into a AdSense <b>div</b> tag. That's all. :)
 
 <i>note: In production you may want to remove the console.log lines as they are solely ment for debugging purposes.<br /><br />
 I used a class but you can replace it with an ID tag. If you do, just replace .ohDear with a #ohDear within the script.<br />
-If you want you can replace the jQuery calls with $ for abbrivation, I just left it in there for clarity.</i>
+If you want you can replace the jQuery calls with $ for abbrivation, I used it for clarity.</i>
